@@ -1,0 +1,372 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\GroceryOrderingManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C665EDA1-E48D-413D-9CBD-C5FDC5DDBAFE}|GroceryOrderingManagementSystem.csproj|c:\\users\\user\\source\\repos\\groceryorderingmanagementsystem\\frmdatabasemaintenance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C665EDA1-E48D-413D-9CBD-C5FDC5DDBAFE}|GroceryOrderingManagementSystem.csproj|solutionrelative:frmdatabasemaintenance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C665EDA1-E48D-413D-9CBD-C5FDC5DDBAFE}|GroceryOrderingManagementSystem.csproj|c:\\users\\user\\source\\repos\\groceryorderingmanagementsystem\\frmreports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C665EDA1-E48D-413D-9CBD-C5FDC5DDBAFE}|GroceryOrderingManagementSystem.csproj|solutionrelative:frmreports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C665EDA1-E48D-413D-9CBD-C5FDC5DDBAFE}|GroceryOrderingManagementSystem.csproj|C:\\Users\\User\\source\\repos\\GroceryOrderingManagementSystem\\frmreports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C665EDA1-E48D-413D-9CBD-C5FDC5DDBAFE}|GroceryOrderingManagementSystem.csproj|solutionrelative:frmreports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C665EDA1-E48D-413D-9CBD-C5FDC5DDBAFE}|GroceryOrderingManagementSystem.csproj|c:\\users\\user\\source\\repos\\groceryorderingmanagementsystem\\frmmemberpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C665EDA1-E48D-413D-9CBD-C5FDC5DDBAFE}|GroceryOrderingManagementSystem.csproj|solutionrelative:frmmemberpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C665EDA1-E48D-413D-9CBD-C5FDC5DDBAFE}|GroceryOrderingManagementSystem.csproj|c:\\users\\user\\source\\repos\\groceryorderingmanagementsystem\\frmorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C665EDA1-E48D-413D-9CBD-C5FDC5DDBAFE}|GroceryOrderingManagementSystem.csproj|solutionrelative:frmorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C665EDA1-E48D-413D-9CBD-C5FDC5DDBAFE}|GroceryOrderingManagementSystem.csproj|c:\\users\\user\\source\\repos\\groceryorderingmanagementsystem\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C665EDA1-E48D-413D-9CBD-C5FDC5DDBAFE}|GroceryOrderingManagementSystem.csproj|solutionrelative:frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C665EDA1-E48D-413D-9CBD-C5FDC5DDBAFE}|GroceryOrderingManagementSystem.csproj|c:\\users\\user\\source\\repos\\groceryorderingmanagementsystem\\frmusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C665EDA1-E48D-413D-9CBD-C5FDC5DDBAFE}|GroceryOrderingManagementSystem.csproj|solutionrelative:frmusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C665EDA1-E48D-413D-9CBD-C5FDC5DDBAFE}|GroceryOrderingManagementSystem.csproj|c:\\users\\user\\source\\repos\\groceryorderingmanagementsystem\\frmgroceryitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C665EDA1-E48D-413D-9CBD-C5FDC5DDBAFE}|GroceryOrderingManagementSystem.csproj|solutionrelative:frmgroceryitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C665EDA1-E48D-413D-9CBD-C5FDC5DDBAFE}|GroceryOrderingManagementSystem.csproj|C:\\Users\\User\\source\\repos\\GroceryOrderingManagementSystem\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C665EDA1-E48D-413D-9CBD-C5FDC5DDBAFE}|GroceryOrderingManagementSystem.csproj|solutionrelative:frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C665EDA1-E48D-413D-9CBD-C5FDC5DDBAFE}|GroceryOrderingManagementSystem.csproj|C:\\Users\\User\\source\\repos\\GroceryOrderingManagementSystem\\frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C665EDA1-E48D-413D-9CBD-C5FDC5DDBAFE}|GroceryOrderingManagementSystem.csproj|solutionrelative:frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C665EDA1-E48D-413D-9CBD-C5FDC5DDBAFE}|GroceryOrderingManagementSystem.csproj|c:\\users\\user\\source\\repos\\groceryorderingmanagementsystem\\passwordsecurity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C665EDA1-E48D-413D-9CBD-C5FDC5DDBAFE}|GroceryOrderingManagementSystem.csproj|solutionrelative:passwordsecurity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C665EDA1-E48D-413D-9CBD-C5FDC5DDBAFE}|GroceryOrderingManagementSystem.csproj|c:\\users\\user\\source\\repos\\groceryorderingmanagementsystem\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C665EDA1-E48D-413D-9CBD-C5FDC5DDBAFE}|GroceryOrderingManagementSystem.csproj|solutionrelative:frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C665EDA1-E48D-413D-9CBD-C5FDC5DDBAFE}|GroceryOrderingManagementSystem.csproj|C:\\Users\\User\\source\\repos\\GroceryOrderingManagementSystem\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C665EDA1-E48D-413D-9CBD-C5FDC5DDBAFE}|GroceryOrderingManagementSystem.csproj|solutionrelative:frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C665EDA1-E48D-413D-9CBD-C5FDC5DDBAFE}|GroceryOrderingManagementSystem.csproj|c:\\users\\user\\source\\repos\\groceryorderingmanagementsystem\\frmmembers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C665EDA1-E48D-413D-9CBD-C5FDC5DDBAFE}|GroceryOrderingManagementSystem.csproj|solutionrelative:frmmembers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C665EDA1-E48D-413D-9CBD-C5FDC5DDBAFE}|GroceryOrderingManagementSystem.csproj|c:\\users\\user\\source\\repos\\groceryorderingmanagementsystem\\frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C665EDA1-E48D-413D-9CBD-C5FDC5DDBAFE}|GroceryOrderingManagementSystem.csproj|solutionrelative:frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C665EDA1-E48D-413D-9CBD-C5FDC5DDBAFE}|GroceryOrderingManagementSystem.csproj|c:\\users\\user\\source\\repos\\groceryorderingmanagementsystem\\aboutbox1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C665EDA1-E48D-413D-9CBD-C5FDC5DDBAFE}|GroceryOrderingManagementSystem.csproj|solutionrelative:aboutbox1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C665EDA1-E48D-413D-9CBD-C5FDC5DDBAFE}|GroceryOrderingManagementSystem.csproj|c:\\users\\user\\source\\repos\\groceryorderingmanagementsystem\\frmgroceryitems.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C665EDA1-E48D-413D-9CBD-C5FDC5DDBAFE}|GroceryOrderingManagementSystem.csproj|solutionrelative:frmgroceryitems.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C665EDA1-E48D-413D-9CBD-C5FDC5DDBAFE}|GroceryOrderingManagementSystem.csproj|c:\\users\\user\\source\\repos\\groceryorderingmanagementsystem\\frmmembers.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C665EDA1-E48D-413D-9CBD-C5FDC5DDBAFE}|GroceryOrderingManagementSystem.csproj|solutionrelative:frmmembers.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C665EDA1-E48D-413D-9CBD-C5FDC5DDBAFE}|GroceryOrderingManagementSystem.csproj|C:\\Users\\User\\source\\repos\\GroceryOrderingManagementSystem\\frmmembers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C665EDA1-E48D-413D-9CBD-C5FDC5DDBAFE}|GroceryOrderingManagementSystem.csproj|solutionrelative:frmmembers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C665EDA1-E48D-413D-9CBD-C5FDC5DDBAFE}|GroceryOrderingManagementSystem.csproj|C:\\Users\\User\\source\\repos\\GroceryOrderingManagementSystem\\frmgroceryitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C665EDA1-E48D-413D-9CBD-C5FDC5DDBAFE}|GroceryOrderingManagementSystem.csproj|solutionrelative:frmgroceryitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C665EDA1-E48D-413D-9CBD-C5FDC5DDBAFE}|GroceryOrderingManagementSystem.csproj|C:\\Users\\User\\source\\repos\\GroceryOrderingManagementSystem\\frmorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C665EDA1-E48D-413D-9CBD-C5FDC5DDBAFE}|GroceryOrderingManagementSystem.csproj|solutionrelative:frmorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C665EDA1-E48D-413D-9CBD-C5FDC5DDBAFE}|GroceryOrderingManagementSystem.csproj|C:\\Users\\User\\source\\repos\\GroceryOrderingManagementSystem\\aboutbox1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C665EDA1-E48D-413D-9CBD-C5FDC5DDBAFE}|GroceryOrderingManagementSystem.csproj|solutionrelative:aboutbox1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmDatabaseMaintenance.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\GroceryOrderingManagementSystem\\frmDatabaseMaintenance.cs",
+              "RelativeDocumentMoniker": "frmDatabaseMaintenance.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\GroceryOrderingManagementSystem\\frmDatabaseMaintenance.cs",
+              "RelativeToolTip": "frmDatabaseMaintenance.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAkwJ0BAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T17:22:34.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmMemberPassword.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\GroceryOrderingManagementSystem\\frmMemberPassword.cs",
+              "RelativeDocumentMoniker": "frmMemberPassword.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\GroceryOrderingManagementSystem\\frmMemberPassword.cs",
+              "RelativeToolTip": "frmMemberPassword.cs",
+              "ViewState": "AgIAAEQBAAAAAAAAAAAIwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T17:16:01.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmUsers.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\GroceryOrderingManagementSystem\\frmUsers.cs",
+              "RelativeDocumentMoniker": "frmUsers.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\GroceryOrderingManagementSystem\\frmUsers.cs",
+              "RelativeToolTip": "frmUsers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T17:13:00.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PasswordSecurity.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\GroceryOrderingManagementSystem\\PasswordSecurity.cs",
+              "RelativeDocumentMoniker": "PasswordSecurity.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\GroceryOrderingManagementSystem\\PasswordSecurity.cs",
+              "RelativeToolTip": "PasswordSecurity.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T17:09:48.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmReports.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\GroceryOrderingManagementSystem\\frmReports.cs",
+              "RelativeDocumentMoniker": "frmReports.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\GroceryOrderingManagementSystem\\frmReports.cs",
+              "RelativeToolTip": "frmReports.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAowDEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T16:31:54.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmReports.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\GroceryOrderingManagementSystem\\frmReports.cs",
+              "RelativeDocumentMoniker": "frmReports.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\GroceryOrderingManagementSystem\\frmReports.cs [Design]",
+              "RelativeToolTip": "frmReports.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T16:32:22.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmGroceryItems.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\GroceryOrderingManagementSystem\\frmGroceryItems.Designer.cs",
+              "RelativeDocumentMoniker": "frmGroceryItems.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\GroceryOrderingManagementSystem\\frmGroceryItems.Designer.cs",
+              "RelativeToolTip": "frmGroceryItems.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T13:29:43.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmGroceryItems.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\GroceryOrderingManagementSystem\\frmGroceryItems.cs",
+              "RelativeDocumentMoniker": "frmGroceryItems.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\GroceryOrderingManagementSystem\\frmGroceryItems.cs",
+              "RelativeToolTip": "frmGroceryItems.cs",
+              "ViewState": "AgIAAL8AAAAAAAAAAAAswA0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T16:57:07.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frmGroceryItems.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\GroceryOrderingManagementSystem\\frmGroceryItems.cs",
+              "RelativeDocumentMoniker": "frmGroceryItems.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\GroceryOrderingManagementSystem\\frmGroceryItems.cs [Design]",
+              "RelativeToolTip": "frmGroceryItems.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T16:38:34.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\GroceryOrderingManagementSystem\\frmLogin.cs",
+              "RelativeDocumentMoniker": "frmLogin.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\GroceryOrderingManagementSystem\\frmLogin.cs",
+              "RelativeToolTip": "frmLogin.cs",
+              "ViewState": "AgIAAPQAAAAAAAAAAAA/wLcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T17:55:05.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\GroceryOrderingManagementSystem\\frmLogin.cs",
+              "RelativeDocumentMoniker": "frmLogin.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\GroceryOrderingManagementSystem\\frmLogin.cs [Design]",
+              "RelativeToolTip": "frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T17:28:45.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\GroceryOrderingManagementSystem\\frmAdmin.cs",
+              "RelativeDocumentMoniker": "frmAdmin.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\GroceryOrderingManagementSystem\\frmAdmin.cs",
+              "RelativeToolTip": "frmAdmin.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAADwv0kAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T20:20:59.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmAdmin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\GroceryOrderingManagementSystem\\frmAdmin.cs",
+              "RelativeDocumentMoniker": "frmAdmin.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\GroceryOrderingManagementSystem\\frmAdmin.cs [Design]",
+              "RelativeToolTip": "frmAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T20:14:14.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\GroceryOrderingManagementSystem\\frmDashboard.cs",
+              "RelativeDocumentMoniker": "frmDashboard.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\GroceryOrderingManagementSystem\\frmDashboard.cs [Design]",
+              "RelativeToolTip": "frmDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T19:29:34.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\GroceryOrderingManagementSystem\\frmDashboard.cs",
+              "RelativeDocumentMoniker": "frmDashboard.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\GroceryOrderingManagementSystem\\frmDashboard.cs",
+              "RelativeToolTip": "frmDashboard.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAowBMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T19:39:52.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmOrders.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\GroceryOrderingManagementSystem\\frmOrders.cs",
+              "RelativeDocumentMoniker": "frmOrders.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\GroceryOrderingManagementSystem\\frmOrders.cs",
+              "RelativeToolTip": "frmOrders.cs",
+              "ViewState": "AgIAADYFAAAAAAAAAAAgwBQAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-04T19:03:48.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "frmOrders.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\GroceryOrderingManagementSystem\\frmOrders.cs",
+              "RelativeDocumentMoniker": "frmOrders.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\GroceryOrderingManagementSystem\\frmOrders.cs [Design]",
+              "RelativeToolTip": "frmOrders.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T17:06:25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AboutBox1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\GroceryOrderingManagementSystem\\AboutBox1.cs",
+              "RelativeDocumentMoniker": "AboutBox1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\GroceryOrderingManagementSystem\\AboutBox1.cs",
+              "RelativeToolTip": "AboutBox1.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAmwB8AAABEAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T16:19:45.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AboutBox1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\GroceryOrderingManagementSystem\\AboutBox1.cs",
+              "RelativeDocumentMoniker": "AboutBox1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\GroceryOrderingManagementSystem\\AboutBox1.cs [Design]",
+              "RelativeToolTip": "AboutBox1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T16:19:37.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmMembers.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\GroceryOrderingManagementSystem\\frmMembers.cs",
+              "RelativeDocumentMoniker": "frmMembers.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\GroceryOrderingManagementSystem\\frmMembers.cs",
+              "RelativeToolTip": "frmMembers.cs",
+              "ViewState": "AgIAAAACAAAAAAAAAAAowA4CAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T16:11:51.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmMembers.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\GroceryOrderingManagementSystem\\frmMembers.cs",
+              "RelativeDocumentMoniker": "frmMembers.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\GroceryOrderingManagementSystem\\frmMembers.cs [Design]",
+              "RelativeToolTip": "frmMembers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T20:10:42.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmMembers.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\GroceryOrderingManagementSystem\\frmMembers.Designer.cs",
+              "RelativeDocumentMoniker": "frmMembers.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\GroceryOrderingManagementSystem\\frmMembers.Designer.cs",
+              "RelativeToolTip": "frmMembers.Designer.cs",
+              "ViewState": "AgIAAEUBAAAAAAAAAAAgwAgCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T12:11:50.446Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
